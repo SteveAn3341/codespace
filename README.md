@@ -1,1 +1,1 @@
-# codespace
+print("hello world")
