@@ -9,6 +9,8 @@
 a,b = "python" , "world"
 print("hello, {} {}".format(a,b))
 
+print("hello,{1} {0}".format(a,b))
+
 
 
 
